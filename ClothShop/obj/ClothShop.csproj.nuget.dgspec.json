@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\ClothShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\API\\Bài tập lớn\\ClothShop\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\trans\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj"
+              },
+              "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj": {
+                "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\ClothShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\ClothShop.csproj",
+        "projectName": "ClothShop",
+        "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\ClothShop.csproj",
+        "packagesPath": "C:\\Users\\trans\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Work\\API\\Bài tập lớn\\ClothShop\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\BLL\\BLL.csproj"
+              },
+              "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj"
+              },
+              "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj": {
+                "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\trans\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj": {
+                "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\trans\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

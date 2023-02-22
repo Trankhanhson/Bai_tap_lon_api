@@ -1,0 +1,17 @@
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\DAL.dll
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\Models.dll
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Work\API\Bài tập lớn\ClothShop\BLL\bin\Debug\net6.0\Models.pdb
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Work\API\Bài tập lớn\ClothShop\BLL\obj\Debug\net6.0\ref\BLL.dll

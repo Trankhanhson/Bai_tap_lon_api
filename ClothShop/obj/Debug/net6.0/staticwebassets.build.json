@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "OmVVrWFXstzR/UhVC7C2U/5/F4i2R2IuV0dsfDhvG1A=",
+  "Source": "ClothShop",
+  "BasePath": "_content/ClothShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClothShop\\wwwroot",
+      "Source": "ClothShop",
+      "ContentRoot": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\",
+      "BasePath": "_content/ClothShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\ProductCat\\638123173481711483.jpg",
+      "SourceId": "ClothShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\",
+      "BasePath": "_content/ClothShop",
+      "RelativePath": "ProductCat/638123173481711483.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductCat\\638123173481711483.jpg"
+    },
+    {
+      "Identity": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\ProductCat\\6ts22a006-sp247-2.jpg",
+      "SourceId": "ClothShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\",
+      "BasePath": "_content/ClothShop",
+      "RelativePath": "ProductCat/6ts22a006-sp247-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductCat\\6ts22a006-sp247-2.jpg"
+    },
+    {
+      "Identity": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\ProductCat\\6ts22a006-sp247-3.jpg",
+      "SourceId": "ClothShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\",
+      "BasePath": "_content/ClothShop",
+      "RelativePath": "ProductCat/6ts22a006-sp247-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductCat\\6ts22a006-sp247-3.jpg"
+    },
+    {
+      "Identity": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\ProductCat\\gsxd3nfl.3cs",
+      "SourceId": "ClothShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\API\\Bài tập lớn\\ClothShop\\ClothShop\\wwwroot\\",
+      "BasePath": "_content/ClothShop",
+      "RelativePath": "ProductCat/gsxd3nfl.3cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductCat\\gsxd3nfl.3cs"
+    }
+  ]
+}
